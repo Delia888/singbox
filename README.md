@@ -1,8 +1,8 @@
 > [!CAUTION]
 > 请勿以任何形式转载或发布至中国大陆地区
 
-### Sing-box 说明
->本规则集域名以V5为主，IP V3为辅助,建议Sing-box内核sing-box 1.13.0+以上版本
+### Sing-box 特别提示
+>本规则集域名以V5为主，IP V3为辅,建议Sing-box内核更新至sing-box 1.14.0-alpha.46以上版本
 
 ### 🚀 优化效果对比
 
