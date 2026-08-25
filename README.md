@@ -11,14 +11,14 @@
 
 ##
 
-### ⚙️ 配置示例
+### ⚙️ 示例参考
 ```json
   "http_clients":[{"tag":"direct_download"}],
   "route":{
     "default_http_client":"direct_download",
     "rule_set":[
     {"tag": ["Google-Site","Local-IP","xx1","xx2"],"type": "remote","format": "binary",
-    "url": "https://cdn.jsdelivr.net/gh/your_username/singbox@main/singbox/{tag}.srs"}],
+    "url": "https://cdn.jsdelivr.net/gh/Delia888/singbox@main/singbox/{tag}.srs"}],
 ```
 ### 📄 开源许可
 数据来源于网络抓取，本项目遵循 [MIT License](LICENSE) 协议开源。
